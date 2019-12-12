@@ -7,6 +7,8 @@
     "test": "standard",
     "lint": "node_modules/.bin/eslint . --ext .js"
   },
+  "engines": {
+    "node": "12.13.0"
   "keywords": [
     "logging",
     "discord",
